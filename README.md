@@ -5,7 +5,7 @@
 KinomeRun is a python based GUI pipeline which can be used for performing the target screening with the ligand of interest. It can be used to perform inverse screening against the kinome structures. KinomeRun integrates AutoDock Vina for performing the virtual screening and Protein-Ligand Interaction Profiler for calculation of the kinome-ligand interaction patterns at Largescale. The customized filteration analysis using KinomeRun will enable the user to specify the interaction filteraction pattern of their own for target prioritization and ranking for visualization in the Kinometree produced by KinomeRender.
 
 
-***Software Required to run PepVis:**
+***Software Required to run KinomeRun:**
     + GNU Parallel (https://www.gnu.org/software/parallel/)
     + Autodock Vina (http://vina.scripps.edu/)
     + KinomeRender (http://biophys.umontreal.ca/nrg/resources.html)
