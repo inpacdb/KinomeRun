@@ -229,7 +229,7 @@ FILE1=asd.readlines()
 asd.close()
 
 for f in FILE1:
-	if f[0:4].strip() in [ 'ATOM', 'HETATM' ]:
+	if f[0:6].strip() in [ 'ATOM', 'HETATM' ]:
 		print(f[17:20].strip())
 		break" >"$WORKING"/"$l"/docked_files/plip_temp/ligname.py
 	echo -n "
