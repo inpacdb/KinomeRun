@@ -11,7 +11,7 @@ KinomeRun is a python based GUI pipeline which can be used for performing the ta
     + KinomeRender (http://biophys.umontreal.ca/nrg/resources.html)
     + Protein-Ligand Interaction Profiler (PLIP) (https://github.com/ssalentin/plip)
     + Kinome Dataset
-(https://drive.google.com/file/d/18iR8jMFPw9XzM2DtLff7rFmigfSVyRzh/view)
+( https://drive.google.com/open?id=1noH965krqB88SRkQnJgZBWZKo86Bk2y7 )
 
 ***KinomeRun Installation:**
     + Just unzip and run the python scripts provided directly to run the program. 
