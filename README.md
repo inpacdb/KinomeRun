@@ -1,6 +1,6 @@
 # KinomeRun
 
-# KinomeRun-integrative pipeline for virtual target screening and interaction pattern analysis
+# KinomeRun: An interactive utility for kinome target screening and interaction fingerprint analysis towards holistic visualization on kinome tree 
 
 KinomeRun is a python based GUI pipeline which can be used for performing the target screening with the ligand of interest. It can be used to perform inverse screening against the kinome structures. KinomeRun integrates AutoDock Vina for performing the virtual screening and Protein-Ligand Interaction Profiler for calculation of the kinome-ligand interaction patterns at Largescale. The customized filteration analysis using KinomeRun will enable the user to specify the interaction filteraction pattern of their own for target prioritization and ranking for visualization in the Kinometree produced by KinomeRender.
 
