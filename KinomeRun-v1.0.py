@@ -3708,7 +3708,7 @@ def run_analysis():
 		if FOUR:
 			LEGEND+="color 1 0 1\ncircle-lined\nspace\nspace\ntext %d\nnext-line\n" %(four)
 		if FIVE:
-			LEGEND+="color 0 0 0\nspace\nspace\ntext <%d text\n" % (five)
+			LEGEND+="color 0 0 0\nspace\nspace\ntext <%d text\n" % (four)
 		LEGEND+="legendBox"
 		#~~~ LEGEND BOX
 		dsa.write(LEGEND)
