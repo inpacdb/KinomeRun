@@ -34,6 +34,8 @@ python KinomeRun-v1.0.py
 
 v1.0
 
+For direct command line usage, the users can run the kinomeRun_cmd.bash script.
+
 **Authors**
 
 Samdani.A & Umashankar.V
